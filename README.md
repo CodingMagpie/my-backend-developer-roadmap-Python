@@ -13,9 +13,20 @@ How programming aling with your identity and values?
 There are lots of materials and roadmaps out there. Everyone can google what to do. The main issue is that people dont dedicate to that. They still trying to find "magic pill" and "cut edges" not to learn all that stuff. 
 In case if you dont know where to start. Here is lot of [roadmaps:"How to become a..."](https://github.com/kamranahmedse/developer-roadmap) 
 
-### How? 
+### How? - how to make it interesting for you
+Find your way to learn all that. Pick books/courses/projects in a way its fun and exciting for you. 
+[How To Get Out of Tutorial Hell (Step by Step Guide)](https://www.youtube.com/watch?v=343EWZS9O88&list=LL). Question Driven Development. 
+[Consistancy - The Best Coding Habit](https://www.youtube.com/watch?v=pu6VrW1cF6U))
 
-### Set goals:
+
+
+
+
+
+
+
+
+## Set goals:
 #### Short-term:
 - follow [these beliefs](https://blog.boot.dev/about/#our-beliefs)
   - Coding is fun, don’t make it dull
@@ -85,7 +96,8 @@ In case if you dont know where to start. Here is lot of [roadmaps:"How to become
 - just practice and be happy when you enter [Flow Mode](https://hubstaff.com/blog/how-to-get-into-the-flow-mode/).
 - try to accomplish MVP as soon as you can, to feel reward. It works with small chunks of code too. 
 - use 90/10 rule. Try to keep new material in amount not more then 10% of overall material.
-- when you feel that its hard to keep focus on subject - take a break. Dont force yourself when you`re uneffective. Take breaks at least every 1-2 hours. 
+- when you feel that its hard to keep focus on subject - take a break. Dont force yourself when you`re uneffective. Take breaks at least every 1-2 hours.
+- [Software Engineering Anxiety](https://www.youtube.com/watch?v=-Afvtij-o2w). The most atomic start possible. 
 
 
 ### my own struggles that waste lots of my mental energy and time:
