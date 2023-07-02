@@ -1,6 +1,6 @@
 # my backend developer roadmap Python
 Roadmap with "Soft skilles" and "Hards killes" 
-my definition of Soft skills - skills that help you to do your job. At this case it will be learning skills.
+my definition of Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important 
 my definition of Hard skills - learning technical skills and appliing them to my projects. And creating projects.
 
 
@@ -17,16 +17,20 @@ my definition of Hard skills - learning technical skills and appliing them to my
   - It’s a marathon, not a sprint
   - You should be uncomfortable
   - Get an on-site, full-time job first
-    
-- pick up a few sourses of information and just focus on them
-- first milestone to accomplish. Spend 300 hours on practice, to become a "perfomance artist".
+- first milestone to accomplish. Spend 300 hours on practice, to become a "perfomance artist". Its all about nurture, not nature.     
+- articles with recomendations that may help at start:
+  - pick up a few sourses of information and just focus on them
+  -
 
-- [x]create learning project in my database and put information from learning there. 
+  
+- [x] create learning project in my database and put information from learning there. 
+- [x] make own motivational letter, about "why I should I become a software engeneer" (make it through 8 levels)
+- [x] 
 
 #### Long-term:
 - milestone to accomplish. Spend 1500 hours on practacing to become a "dungeon master".
-- be exited about programming and computing
-- become an awesome software engeneer (senior level).
+- be exited about programming and computing. Learn new valuable things that I use in work and practice all the time. 
+- become an awesome software engeneer.
 - apply new AI-technologies in work.
 - contribute value into community 
 - never think about "making money again"
