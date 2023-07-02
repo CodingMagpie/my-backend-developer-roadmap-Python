@@ -1,6 +1,6 @@
 # my backend developer roadmap Python
 Roadmap with "Soft skilles" and "Hards killes" 
-my definition of Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important 
+my definition of Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important -> why is more important then "what"
 my definition of Hard skills - learning technical skills and appliing them to my projects. And creating projects.
 
 
