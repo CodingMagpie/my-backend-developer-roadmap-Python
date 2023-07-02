@@ -38,7 +38,7 @@ my definition of Hard skills - learning technical skills and appliing them to my
 
 
 ### Courses I applied:
-1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))
+1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming)
 2) [Master English grammar| Grammar rules, practice, tests 4,7*, US](https://www.udemy.com/course/ultimate-english-grammar-course-master-english-grammar/#instructor-1)
 
 
