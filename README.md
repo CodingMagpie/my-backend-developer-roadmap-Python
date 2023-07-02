@@ -53,13 +53,13 @@ my definition:
 ## Hard Skills/ Practice:
 ### Learning courses:
 1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add information to my Database(onenote). 
-2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.
+2) [Boot.dev](https://boot.dev/). Practice makes perfect. Goal: be at weekly "top 16" learderboard.
 
 #### own projects: `in progress`.
 #### help others: when I get a bit more experience. 
 
 #### list of next learning materials, after I finish previous:  
-- clean code (google for book, course)
+- [clean code](https://www.udemy.com/course/writing-clean-code/), or any other course, book. 
 
 
 
@@ -76,6 +76,7 @@ my definition:
 - just practice and be happy when you enter [Flow Mode](https://hubstaff.com/blog/how-to-get-into-the-flow-mode/).
 - try to accomplish MVP as soon as you can, to feel reward. It works with small chunks of code too. 
 - use 90/10 rule. Try to keep new material in amount not more then 10% of overall material.
+- when you feel that its hard to keep focus on subject - take a break. Dont force yourself when you`re uneffective. Take breaks at least every 1-2 hours. 
 
 
 ### my own struggles that waste lots of my mental energy and time:
