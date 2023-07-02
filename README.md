@@ -20,7 +20,9 @@ my definition of Hard skills - learning technical skills and appliing them to my
 - first milestone to accomplish. Spend 300 hours on practice, to become a "perfomance artist". Its all about nurture, not nature.     
 - articles with recomendations that may help at start:
   - pick up a few sourses of information and just focus on them
-  -
+  - [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
+  - [just Google is - How to deal with anxiety in programming, when you just start learning programing](https://www.google.com/search?q=How+to+deal+with+anxiety+in+programming%2C+when+you+just+start+learning+programing&rlz=1C1SQJL_ruUA864UA864&oq=How+to+deal+with+anxiety+in+programming%2C+when+you+just+start+learning+programing&aqs=chrome..69i57.153j0j1&sourceid=chrome&ie=UTF-8), You may also ask ChatGPT :D
+  - [10 Signs You Will Suck at Programming](https://medium.com/@jonathanbluks/10-signs-you-will-suck-at-programming-5497a6a52c5c), [What Makes a Good Developer?](https://medium.com/@jonathanbluks/what-makes-a-good-developer-80330712e22)
 
   
 - [x] create learning project in my database and put information from learning there. 
@@ -53,10 +55,10 @@ my definition of Hard skills - learning technical skills and appliing them to my
 - [ ] 50 hours - slave 
 - [ ] 100 hours - college boy
 - [ ] 300 hours - perfomance artist
-- [ ] 500 hours - leatherman
-- [ ] 750 hours - jabrony
+- [ ] 500 hours - boy next door
+- [ ] 750 hours - leather man
 - [ ] 1000 hours - Billy
 - [ ] 1500 hours - Dungeon Master
-- [ ] 
+
 
 ### How to make studing more fun:
