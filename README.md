@@ -73,7 +73,7 @@ Find your way to learn all that. Pick books/courses/projects in a way its fun an
 ## Hard Skills/ Practice:
 ### Learning courses:
 1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add information to my Database(onenote). 
-2) [Boot.dev](https://boot.dev/). Practice makes perfect. Goal: be at weekly "top 16" learderboard.
+2) [Boot.dev](https://boot.dev/). Practice makes perfect. Goal: be at weekly top 3 - top10 learderboard.
 
 #### own projects: `in progress`.
 #### help others: when I get a bit more experience. 
@@ -97,7 +97,8 @@ Find your way to learn all that. Pick books/courses/projects in a way its fun an
 - try to accomplish MVP as soon as you can, to feel reward. It works with small chunks of code too. 
 - use 90/10 rule. Try to keep new material in amount not more then 10% of overall material.
 - when you feel that its hard to keep focus on subject - take a break. Dont force yourself when you`re uneffective. Take breaks at least every 1-2 hours.
-- [Software Engineering Anxiety](https://www.youtube.com/watch?v=-Afvtij-o2w). The most atomic start possible. 
+- [Software Engineering Anxiety](https://www.youtube.com/watch?v=-Afvtij-o2w). The most atomic start possible.
+- [Mindset of Successful Programmers](https://www.youtube.com/watch?v=nogh434ykF0)
 
 
 ### my own struggles that waste lots of my mental energy and time:
