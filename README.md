@@ -52,7 +52,7 @@ my definition:
 
 ## Hard Skills/ Practice:
 ### Learning courses:
-1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add info from course into own DB. 
+1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add information to my Database(onenote). 
 2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.
 
 #### own projects: `in progress`.
