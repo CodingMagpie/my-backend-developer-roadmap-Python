@@ -40,7 +40,7 @@ my definition:
 
 
 
-## Milestones:  (`25h atm.`)
+## Milestones: 
 - [ ] 50 hours - Jabroni  
 - [ ] 100 hours - slave
 - [ ] 300 hours - college boy
