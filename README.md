@@ -18,9 +18,9 @@ my definition:
   - It’s a marathon, not a sprint
   - You should be uncomfortable (90/10%new info)
   - Get an on-site, full-time job first
-- first milestone to accomplish. Spend 300 hours on practice, to become a "perfomance artist". Its all about nurture, not nature.     
+- first milestone to accomplish. Spend 300 hours on practice, to become a "perfomance artist". Its all about nurture, not nature.
+- pick up a few quality sourses of information and focus on them
 - articles with recomendations that may help at start:
-  - pick up a few sourses of information and just focus on them
   - [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
   - [just Google is - How to deal with anxiety in programming, when you just start learning programing](https://www.google.com/search?q=How+to+deal+with+anxiety+in+programming%2C+when+you+just+start+learning+programing&rlz=1C1SQJL_ruUA864UA864&oq=How+to+deal+with+anxiety+in+programming%2C+when+you+just+start+learning+programing&aqs=chrome..69i57.153j0j1&sourceid=chrome&ie=UTF-8), You may also ask ChatGPT :D
   - [10 Signs You Will Suck at Programming](https://medium.com/@jonathanbluks/10-signs-you-will-suck-at-programming-5497a6a52c5c), [What Makes a Good Developer?](https://medium.com/@jonathanbluks/what-makes-a-good-developer-80330712e22)
@@ -41,8 +41,8 @@ my definition:
 
 
 ### Courses I applied:
-1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming)
-2) [Master English grammar| Grammar rules, practice, tests 4,7*, US](https://www.udemy.com/course/ultimate-english-grammar-course-master-english-grammar/#instructor-1)
+1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add info from course into own DB. 
+2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.  
 
 
 ### projects I started:
