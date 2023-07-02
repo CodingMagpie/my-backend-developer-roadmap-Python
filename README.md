@@ -39,13 +39,6 @@ my definition:
 - never think about "making money again"
 
 
-## Practice:
-### Learning courses I applied:
-1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add info from course into own DB. 
-2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.
-
-#### own projects I started: `in progress`
-
 
 ## Milestones:  (`25h atm.`)
 - [ ] 50 hours - Jabroni  
@@ -55,6 +48,19 @@ my definition:
 - [ ] 750 hours - leatherman
 - [ ] 1000 hours - Billy
 - [ ] 1500 hours - Dungeon Master
+
+
+## Hard Skills/ Practice:
+### Learning courses:
+1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add info from course into own DB. 
+2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.
+
+#### own projects: `in progress`.
+#### help others: when I get a bit more experience. 
+
+#### next learning materials: 
+      - clean code
+
 
 
 
