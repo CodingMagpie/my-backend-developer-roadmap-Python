@@ -4,7 +4,16 @@ my definition:
 - Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important -> why is more important then "what"
 - Hard skills - learning technical skills and appliing them to my projects. And creating projects.
 
+## Its all about anwering 3 main querstions
+### Why? - the most important question
+Why do you want to learn programming/computing? Its not easest dispcipline to learn. So why do you learn that? What do you want accomplish? How that aling with you lifestyle?
+How programming aling with your identity and values? 
 
+### What? - the easiest question
+There are lots of materials and roadmaps out there. Everyone can google what to do. The main issue is that people dont dedicate to that. They still trying to find "magic pill" and "cut edges" not to learn all that stuff. 
+In case if you dont know where to start. Here is lot of [roadmaps:"How to become a..."](https://github.com/kamranahmedse/developer-roadmap) 
+
+### How? 
 
 ### Set goals:
 #### Short-term:
