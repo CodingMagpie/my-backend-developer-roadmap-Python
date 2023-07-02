@@ -39,16 +39,15 @@ my definition:
 - never think about "making money again"
 
 
-
-### Courses I applied:
+## Practice:
+### Learning courses I applied:
 1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add info from course into own DB. 
-2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.  
+2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.
+
+#### own projects I started: `in progress`
 
 
-##### own projects I started: `in progress`
-
-
-#### Milestones:  (`25h atm.`)
+## Milestones:  (`25h atm.`)
 - [ ] 50 hours - Jabroni  
 - [ ] 100 hours - slave
 - [ ] 300 hours - college boy
@@ -58,17 +57,19 @@ my definition:
 - [ ] 1500 hours - Dungeon Master
 
 
+
 ## Soft skills part:
 ### to keep going:
 - have a good sleep. 
-- eat 3times and eat more slow sugars then fast one (instead of sweets)
-- excersise in the gym and go our for a walk (dont be like "печерна тварина").
-- make programming you 1st priority, start programming from morning, even before checking your smartphone.
+- dont forget to eat 3 times a day. Focus on slow carbs then fast sugars(sweets).
+- excersise in the gym 2-3 times a week. Go out, at least for a walk (dont be like "печерна тварина").
+- make programming as your `1st priority`. Start programming from morning, even before checking your smartphone.
+
 
 ### How to make studing more fun:
-- just practice and be happy when you enter [Flow Mode](https://hubstaff.com/blog/how-to-get-into-the-flow-mode/)
+- just practice and be happy when you enter [Flow Mode](https://hubstaff.com/blog/how-to-get-into-the-flow-mode/).
+- try to accomplish MVP as soon as you can, to feel reward. It works with small chunks of code too. 
 - use 90/10 rule. Try to keep new material in amount not more then 10% of overall material.
-
 
 
 ### my own struggles that waste lots of my mental energy and time:
