@@ -1,7 +1,8 @@
 # my backend developer roadmap Python
 Roadmap with "Soft skilles" and "Hards killes" 
-my definition of Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important -> why is more important then "what"
-my definition of Hard skills - learning technical skills and appliing them to my projects. And creating projects.
+my definition:
+- Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important -> why is more important then "what"
+- Hard skills - learning technical skills and appliing them to my projects. And creating projects.
 
 
 
@@ -15,7 +16,7 @@ my definition of Hard skills - learning technical skills and appliing them to my
   - It’s hard to find good resources
   - Learning to code is a depth-first algorithm
   - It’s a marathon, not a sprint
-  - You should be uncomfortable
+  - You should be uncomfortable (90/10%new info)
   - Get an on-site, full-time job first
 - first milestone to accomplish. Spend 300 hours on practice, to become a "perfomance artist". Its all about nurture, not nature.     
 - articles with recomendations that may help at start:
@@ -44,14 +45,10 @@ my definition of Hard skills - learning technical skills and appliing them to my
 2) [Master English grammar| Grammar rules, practice, tests 4,7*, US](https://www.udemy.com/course/ultimate-english-grammar-course-master-english-grammar/#instructor-1)
 
 
-### Courses I applied:
+### projects I started:
 
 
-### projects I started to make
-
-[Free Language Courses for Ukrainians](https://theeducationalequalityinstitute.org/language-courses/)
-
-#### Milestones:  (25h atm.)
+#### Milestones:  (`25h atm.`)
 - [ ] 50 hours - Jabroni  
 - [ ] 100 hours - slave
 - [ ] 300 hours - college boy
@@ -70,13 +67,18 @@ my definition of Hard skills - learning technical skills and appliing them to my
 
 ### How to make studing more fun:
 - just practice and be happy when you enter [Flow Mode](https://hubstaff.com/blog/how-to-get-into-the-flow-mode/)
-- use 90/10 rule. Try to keep new material in amount not more then 10% of overall material
+- use 90/10 rule. Try to keep new material in amount not more then 10% of overall material.
 
 
 
-### my own struggles:
+### my own struggles that waste lots of my mental energy and time:
 - Military office is my pain and source of stress. Government changed law about military. I have deferment by law, but:
-  - I dont know which documents I should gather for that.
-  - I already finished military medical commission, and can be called to army any moment (which count only if I get paper and sign on that). Fishined medical commission at April`23 and they didn`t call me yet.
-  - 
+  - I dont know which documents I should gather for deferment right now. Only thing I can do right now is wait for a new procedure and _ask people who go to military office do they have new information_.
+  - Gather needed documents and go into military office again. And come there 5 times (2 month) to get 6 month deferment. 
+  - I already finished military medical commission, and can be called to army any moment (which count only if I get paper and sign on that). Fishined medical commission at April`23 and they didnt call me yet.
+  - maybe change place of living in a long-term.
+  - Further steps:
+    - [ ] Go to ЦНАП with passport and military ID to fix issue in registration.
+    - [ ] write to #35 03.07.23 and #50 13.07.23 about do they have any info for me.   
+  
 
