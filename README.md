@@ -21,7 +21,7 @@ my definition of Hard skills - learning technical skills and appliing them to my
 - pick up a few sourses of information and just focus on them
 - first milestone to accomplish. Spend 300 hours on practice, to become a "perfomance artist".
 
-  - [x]create learning project in my database and put information from learning there. 
+- [x]create learning project in my database and put information from learning there. 
 
 #### Long-term:
 - milestone to accomplish. Spend 1500 hours on practacing to become a "dungeon master".
