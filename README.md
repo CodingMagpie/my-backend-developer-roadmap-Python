@@ -58,8 +58,8 @@ my definition:
 #### own projects: `in progress`.
 #### help others: when I get a bit more experience. 
 
-#### next learning materials: 
-      - clean code
+#### list of next learning materials, after I finish previous:  
+- clean code (google for book, course)
 
 
 
