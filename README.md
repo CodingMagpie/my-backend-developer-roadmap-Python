@@ -27,7 +27,7 @@ my definition of Hard skills - learning technical skills and appliing them to my
   
 - [x] create learning project in my database and put information from learning there. 
 - [x] make own motivational letter, about "why I should I become a software engeneer" (make it through 8 levels)
-- [x] 
+
 
 #### Long-term:
 - milestone to accomplish. Spend 1500 hours on practacing to become a "dungeon master".
@@ -52,13 +52,31 @@ my definition of Hard skills - learning technical skills and appliing them to my
 [Free Language Courses for Ukrainians](https://theeducationalequalityinstitute.org/language-courses/)
 
 #### Milestones:  (25h atm.)
-- [ ] 50 hours - slave 
-- [ ] 100 hours - college boy
-- [ ] 300 hours - perfomance artist
-- [ ] 500 hours - boy next door
-- [ ] 750 hours - leather man
+- [ ] 50 hours - Jabroni  
+- [ ] 100 hours - slave
+- [ ] 300 hours - college boy
+- [ ] 500 hours - perfomance artist
+- [ ] 750 hours - leatherman
 - [ ] 1000 hours - Billy
 - [ ] 1500 hours - Dungeon Master
 
 
+## Soft skills part:
+### to keep going:
+- have a good sleep. 
+- eat 3times and eat more slow sugars then fast one (instead of sweets)
+- excersise in the gym and go our for a walk (dont be like "печерна тварина").
+- make programming you 1st priority, start programming from morning, even before checking your smartphone.
+
 ### How to make studing more fun:
+- just practice and be happy when you enter [Flow Mode](https://hubstaff.com/blog/how-to-get-into-the-flow-mode/)
+- use 90/10 rule. Try to keep new material in amount not more then 10% of overall material
+
+
+
+### my own struggles:
+- Military office is my pain and source of stress. Government changed law about military. I have deferment by law, but:
+  - I dont know which documents I should gather for that.
+  - I already finished military medical commission, and can be called to army any moment (which count only if I get paper and sign on that). Fishined medical commission at April`23 and they didn`t call me yet.
+  - 
+
