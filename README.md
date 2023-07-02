@@ -45,7 +45,7 @@ my definition:
 2) [Boot.dev](https://boot.dev/)). Practice makes perfect. Goal: be at weekly "top 16" learderboard.  
 
 
-### projects I started:
+##### own projects I started: `in progress`
 
 
 #### Milestones:  (`25h atm.`)
