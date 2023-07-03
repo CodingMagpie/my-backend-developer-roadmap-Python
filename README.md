@@ -89,6 +89,8 @@ Find your way to learn all that. Pick books/courses/projects in a way its fun an
 - dont forget to eat 3 times a day. Focus on slow carbs then fast sugars(sweets).
 - excersise in the gym 2-3 times a week. Go out, at least for a walk (dont be like "печерна тварина").
 - make programming as your `1st priority`. Start programming from morning, even before checking your smartphone.
+- take away all "easy" distractions, youtube, news, memes and so on. Your main sourse of fun is programming. Check your motivation paper if you think other away :)
+- avoid burnout [Learn to Code Without Burning Out: How I Did It](https://www.youtube.com/watch?v=4bAZXEjxDDE&list=LL&index=5&ab_channel=JamesCross)
 
 
 ### How to make studing more fun:
@@ -97,7 +99,7 @@ Find your way to learn all that. Pick books/courses/projects in a way its fun an
 - use 90/10 rule. Try to keep new material in amount not more then 10% of overall material.
 - when you feel that its hard to keep focus on subject - take a break. Dont force yourself when you`re uneffective. Take breaks at least every 1-2 hours.
 - [Software Engineering Anxiety](https://www.youtube.com/watch?v=-Afvtij-o2w). The most atomic start possible.
-- [Mindset of Successful Programmers](https://www.youtube.com/watch?v=nogh434ykF0)
+- [Mindset of Successful Programmers](https://www.youtube.com/watch?v=nogh434ykF0)  
 
 
 ### my own struggles that waste lots of my mental energy and time:
