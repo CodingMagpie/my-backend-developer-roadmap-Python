@@ -1,7 +1,7 @@
 # my backend developer roadmap Python
 Roadmap with "Soft skilles" and "Hards killes" 
 my definition:
-- Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important -> why is more important then "what"
+- Soft skills - skills that help you to do your job. At this case it will be learning skills. Soft skills more important -> why is more important then "what". + Communication skills, for more productive work with team members and clients. 
 - Hard skills - learning technical skills and appliing them to my projects. And creating projects.
 
 ## Its all about anwering 3 main querstions
@@ -17,7 +17,6 @@ In case if you dont know where to start. Here is lot of [roadmaps:"How to become
 Find your way to learn all that. Pick books/courses/projects in a way its fun and exciting for you. 
 [How To Get Out of Tutorial Hell (Step by Step Guide)](https://www.youtube.com/watch?v=343EWZS9O88&list=LL). Question Driven Development. 
 [Consistancy - The Best Coding Habit](https://www.youtube.com/watch?v=pu6VrW1cF6U))
-
 
 
 
