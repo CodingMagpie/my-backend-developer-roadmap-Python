@@ -24,7 +24,7 @@ Next steps:
 
 
 Process: 
-1) start 1st task in a day
+1) start programming as 1st priority task ( earlier you get up - easier to accomplish goals )
 2) start stopwatch
 3) stop stopwatch - write in a app.
 4) at the next day, copy data from add to GH
