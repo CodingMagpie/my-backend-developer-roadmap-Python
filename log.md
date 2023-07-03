@@ -21,3 +21,10 @@ Next steps:
 1) Boot.dev - Functions
 2) EdX: CS1301xI - Ch1.3 - Debugging. 
 3) If smth hard and you stuck, you can solidify your skills with codewards. And return again to place that you stuck at after. (fast feedback loop). 
+
+
+Process: 
+1) start 1st task in a day
+2) start stopwatch
+3) stop stopwatch - write in a app.
+4) at the next day, copy data from add to GH
