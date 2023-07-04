@@ -34,4 +34,5 @@ Process:
 Overall:
 1) Remember programming is a maraphon, not a sprint. Dont try to make the most of every second, minute, hour. Dont try to work extra hour at night if it makes you feel worse tomorrow (for example at luck of sleep). If you exaust yourself every time, brain will percieve programming as negative trait, not positive.
 2) Take it easy and fun. Try to get result as fast as possible, even from loop, if-statement of function. Start with small chunks that works and makes you happy. 
-3) Feel comfortable about feeling uncomfortable. 
+3) Feel comfortable about feeling uncomfortable.
+4) [Learn in Public?)](https://www.codewars.com/post/learn-in-public-the-community-based-learning-strategy-that-improves-programming-skills)
