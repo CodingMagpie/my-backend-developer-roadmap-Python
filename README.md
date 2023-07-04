@@ -110,6 +110,6 @@ Find your way to learn all that. Pick books/courses/projects in a way its fun an
   - maybe change place of living in a long-term.
   - Further steps:
     - [ ] Go to ЦНАП with passport and military ID to fix issue in registration.
-    - [ ] write to #35 03.07.23 and #50 13.07.23 about do they have any info for me.   
+    - [ ] check message to #50 at 13.07.23 and check message to #35 at 20.07.23 -> if they have any info for me.   
   
 
