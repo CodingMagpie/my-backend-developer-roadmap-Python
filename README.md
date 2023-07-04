@@ -73,7 +73,9 @@ Find your way to learn all that. Pick books/courses/projects in a way its fun an
 ### Learning courses:
 1) [CS1301xI](https://learning.edx.org/course/course-v1:GTx+CS1301xI+1T2023/home))  part of this big program [Learn the fundamentals of computer science](https://www.edx.org/professional-certificate/introduction-to-python-programming). Goal - learn it all till deadlines. Add information to my Database(onenote). 
 2) [Boot.dev](https://boot.dev/). **Practice makes Permanent**. Goal: be at weekly top 3 - top10 learderboard.
-3)#### list of next learning materials, after I finish previous: [clean code](https://www.udemy.com/course/writing-clean-code/)
+3) after I finish previous: [clean code](https://www.udemy.com/course/writing-clean-code/)
+4) next - [git materials](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
+
 #### own projects: `in progress`.
 #### help others: when I get a bit more experience. 
 
