@@ -13,7 +13,14 @@ From People:
 - Write down all ideas of personal project for learning. Just be able to complete it with staf you already know. Set timeframe -20-40 hourr.1  month - too much, few hours - probably not complex enough to practice project building skills that you want to pick up at this point. How to pick up: **Interesting**  and **Usefull**. Ideas of inspiration: automate repetitive task you do every day on your computer. Everything you can do with data - great project. 
                                                                                 
                                                                                                             
+
+[3 Types of Projects That Will Make You a Programmer](https://www.youtube.com/watch?v=RYE0QQKJI9o) -> [3 Levels of Portfolio Projects](https://github.com/andysterks/three-levels-of-projects) 
+Simple ideas: [AUTOMATE YOUR LIFE USING PYTHON - 3 Beginner Projects (tutorial)](https://www.youtube.com/watch?v=ZRlbf5P2iMA), [3 Python Automation Projects - For Beginners](https://www.youtube.com/watch?v=Oz3W-LKfafE)    
+
+                                                                                                              
+                                                                                                              
+                                                                                                              
                                                                                                               
                                                                                                         
-Algorithms for later on:
+Algorithms for later:
 1) [Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms)https://www.khanacademy.org/computing/computer-science/algorithms) or [https://brilliant.org/](https://brilliant.org/?utm_medium=sponsor&utm_source=youtube&utm_campaign=joshuafluke_0423)
