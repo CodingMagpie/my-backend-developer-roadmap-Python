@@ -15,3 +15,5 @@ From People:
                                                                                                             
                                                                                                               
                                                                                                         
+Algorithms for later on:
+1) [Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms)https://www.khanacademy.org/computing/computer-science/algorithms) or [https://brilliant.org/](https://brilliant.org/?utm_medium=sponsor&utm_source=youtube&utm_campaign=joshuafluke_0423)
