@@ -15,7 +15,7 @@ From People:
                                                                                                             
 
 [3 Types of Projects That Will Make You a Programmer](https://www.youtube.com/watch?v=RYE0QQKJI9o) -> [3 Levels of Portfolio Projects](https://github.com/andysterks/three-levels-of-projects) 
-Simple ideas: [AUTOMATE YOUR LIFE USING PYTHON - 3 Beginner Projects (tutorial)](https://www.youtube.com/watch?v=ZRlbf5P2iMA), [3 Python Automation Projects - For Beginners](https://www.youtube.com/watch?v=Oz3W-LKfafE)    
+Projects to copy: [AUTOMATE YOUR LIFE USING PYTHON - 3 Beginner Projects (tutorial)](https://www.youtube.com/watch?v=ZRlbf5P2iMA), [3 Python Automation Projects - For Beginners](https://www.youtube.com/watch?v=Oz3W-LKfafE)    
 
                                                                                                               
                                                                                                               
