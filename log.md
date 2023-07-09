@@ -7,7 +7,7 @@ Log:
 | 2023.07.x  | - | - | - | - | - |
 | 2023.07.x  | - | - | - | - | - |
 | 2023.07.x  | - | - | - | - | - |
-| 2023.07.08  | - | global vs instance variable in class | - | - | - |
+| 2023.07.08  | 0.8h | global vs instance variable in class | - | - | - |
 | 2023.07.07  | 1.15h | classes and OOP | - | (Start making own projects as fast as you can)[https://www.youtube.com/watch?v=RYE0QQKJI9o] take a loot, what processes you can automate | - |
 | 2023.07.06  | 4.08h| Odin project to learn full stack (but its better to focus on 1 material at first) | **1** I struggled for 1 task for around an hour. But I should better to google how to solve part of the task instead of hitting a wall with my head. **2** back end is more about workiing with data, transfering data and so on [(from here)](https://www.youtube.com/watch?v=--fZ_5qspEU) and about automatisation | Google how to fix a task ("How to...") | Dont hurry and put more attention into tasks **2** WOW I almost ended Python Basics at boot.dev. Main thing that helped me with that - persistence *actually ended basic course* |
 | 2023.07.05  | 2 h | Dictionaries. I haven`t solved any excersises yet. Stuck at 1st task with function.   | **1** Solving little excersises dont make you a better programmer. To become a better programmer you should start little miniprojects **2** problem solving in coding spreads into other areas of the life. I noticed that when did my test task. I changed my attitude to problems. **3** functions work not they way I expected. They returned "None" instead of loop.  | Fuctions  | I did my test task for job ~6h. + went to gym. Have not enough time.  |
