@@ -18,10 +18,16 @@ From People:
 
 Projects to copy: [AUTOMATE YOUR LIFE USING PYTHON - 3 Beginner Projects (tutorial)](https://www.youtube.com/watch?v=ZRlbf5P2iMA), [3 Python Automation Projects - For Beginners](https://www.youtube.com/watch?v=Oz3W-LKfafE)    
 
-                                                                                                              
-                                                                                                              
-                                                                                                              
+                                                                                                         
                                                                                                               
                                                                                                         
-Algorithms for later:
-1) [Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms)https://www.khanacademy.org/computing/computer-science/algorithms) or [https://brilliant.org/](https://brilliant.org/?utm_medium=sponsor&utm_source=youtube&utm_campaign=joshuafluke_0423)
+Educational Materials:
+1) [pythontutor -  how code works in tutor.](https://pythontutor.com/)
+2)  [VisuAlgo - visalisy algorithm](https://visualgo.net/en) ,[Algorithms for later - Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms)https://www.khanacademy.org/computing/computer-science/algorithms) or [https://brilliant.org/](https://brilliant.org/?utm_medium=sponsor&utm_source=youtube&utm_campaign=joshuafluke_0423)
+3) [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html)
+4) [Epam open courses](https://training.epam.ua/#!/Home?lang=ua&City=-56,-1)
+
+
+ OOP:
+1) [Python Object Oriented Programming in 10 minutes 🐍](https://www.youtube.com/watch?v=q2SGW2VgwAM) , [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
+2) 
