@@ -21,9 +21,10 @@ Log:
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Next steps:
-1) Boot.dev - Functions
+1) A bit stuck, because dont understand some things well. practice more on functions, and [OOP](https://pynative.com/python/object-oriented-programming/)
 2) EdX: CS1301xI - Ch1.3 - Debugging. 
-3) If stuck somewhere, you can solidify your skills with [codewards](https://www.codewars.com/post/8-reasons-why-codewarriors-practice-coding-with-codewars). Stopped at [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/python)
+3) If stuck somewhe
+4) re, you can solidify your skills with [codewards](https://www.codewars.com/post/8-reasons-why-codewarriors-practice-coding-with-codewars). Stopped at [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/python)
 
 
 
